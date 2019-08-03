@@ -36,7 +36,7 @@ abncika
                   padding-right: 10px;
               }
               .table-opr-dispose:hover {
-                  color: #eaad19;
+                  color: #eaad19;dddd
               }
               .table-opr-delete:hover {
                   color: #fd5a59;
