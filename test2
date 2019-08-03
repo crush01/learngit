@@ -2,5 +2,9 @@ master
 feaature
 test
 
+<<<<<<< HEAD
 jdajkldja
-master
+=======
+feature2
+>>>>>>> feature
+master1
