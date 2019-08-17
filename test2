@@ -12,4 +12,8 @@ ddd
 add merge
 bug
 git add 123
+<<<<<<< HEAD
 git add 
+=======
+git add .zhonghuo
+>>>>>>> 5d5a9fcafe951a549532dd753c0e97e30ad8741d
